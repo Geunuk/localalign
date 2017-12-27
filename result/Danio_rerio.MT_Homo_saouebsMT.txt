@@ -1,0 +1,6 @@
+DB : Danio_rerio.MT
+Query : Homo_saouebsMT
+
+<Alignment>
+
+
